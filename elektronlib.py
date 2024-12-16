@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 num_users = 100
 num_books = 1000
