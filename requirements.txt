@@ -1,4 +1,5 @@
 streamlit
 pandas
 numpy
+pyttsx3
 scikit-learn
